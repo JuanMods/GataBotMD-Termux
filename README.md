@@ -137,3 +137,11 @@ En caso que no tenga nada en el terminar puede usar este comando ```cd GataBotMD
 ### 🌟 CREADORA 
  
 [![GataNina-Li](https://github.com/GataNina-Li.png?size=100)](https://github.com/GataNina-Li) 
+
+### 🌟 DESARROLLADORES
+
+[![Abiguelreyes75](https://github.com/Abiguelreyes75.png?size=100)](https://github.com/Abiguelreyes75)
+ 
+### 🌟 AGRADECIMIENTOS
+ 
+[![TheShadowBrokers1](https://github.com/BrunoSobrino.png?size=100)](https://github.com/BrunoSobrino) 
