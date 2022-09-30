@@ -6,7 +6,6 @@ import { fileURLToPath, pathToFileURL } from 'url'
 import { platform } from 'process'
 import * as ws from 'ws';
 import { readdirSync, statSync, unlinkSync, existsSync, readFileSync, watch } from 'fs';
-import watch from 'glob-fs'
 import yargs from 'yargs';
 import { spawn } from 'child_process';
 import lodash from 'lodash';
