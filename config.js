@@ -6,9 +6,9 @@ import fs from 'fs'
 
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰ 
 global.owner = [
-  ['593993684821', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈', true],
-  ['50498965677', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 2 💖🐈', true],
-  ['51993042301', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 3 💖🐈', true],
+  ['5493751585118', '𝙔𝙪𝙠𝙞𝘽𝙤𝙩-𝙈𝘿 💖🐈', true],
+  ['59996788826', '𝑱𝒖𝒂𝒏𝘽𝙤𝙩-𝙈𝘿 2 💖🐈', true],
+  ['59996695544', 'Edimara𝘽𝙤𝙩-𝙈𝘿 3 💖🐈', true],
   ['50495086382'],
   ['584166662765'],
   ['584163647116'],
@@ -17,7 +17,7 @@ global.owner = [
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 global.mods = [] 
-global.prems = ['528451003894'], 
+global.prems = ['59996788826'], 
 
 global.APIs = { // API Prefix. 
   
@@ -85,8 +85,8 @@ global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = '🐈 𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
-global.author = '𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
+global.packname = '❤️ 𝙔𝙪𝙠𝙞𝘽𝙤𝙩-𝙈𝘿'
+global.author = '𝑱𝒖𝒂𝒏 𝘿𝙞𝙤𝙨'
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -96,37 +96,37 @@ global.author = '𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
 global.vs = '1.3.0'
 global.version = vs
 
-global.gt = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
-global.gatabot = gt
+global.gt = '𝙔𝙪𝙠𝙞𝘽𝙤𝙩-𝙈𝘿'
+global.juanbot = gt
 
-global.yt = 'https://youtube.com/channel/UCpNU4eY7eiI0ve05CssjdbA'
+global.yt = 'https://youtube.com/channel/UC2R3yxeug4zZte1haQsQ6VA'
 global.youtube = yt
 
-global.ig = 'https://www.instagram.com/gata_dios'
-global.gatadiosig = ig
+global.ig = 'https://www.instagram.com/osiris.ts/'
+global.juandiosig = ig
 
 global.md = 'https://github.com/GataNina-Li/GataBot-MD'
-global.gatabot = md
+global.juanbot = md
 
-global.nna = 'https://chat.whatsapp.com/LyetuaoLH2JEzTru6GWcs7'
+global.nna = 'https://chat.whatsapp.com/9aMv58rtTYk68jYFsujSRY'
 global.nnagrupo = nna //UPDATE GATABOT
 
-global.nn = 'https://chat.whatsapp.com/CozkKQaGmgVEghtHBsT4ye'
+global.nn = 'https://chat.whatsapp.com/EFQmJEJbFYrAqgaDtilFBM'
 global.nngrupo = nn //Grupo 1
 
-global.nnn = 'https://chat.whatsapp.com/GvhBPOhkkk98oUCZEkCBXa'
+global.nnn = 'https://chat.whatsapp.com/CewhmY15Ej5B9zJ2wUvnGF'
 global.nnngrupo = nnn //Grupo 2
 
 global.nnnt = 'https://chat.whatsapp.com/LRpEeGSGjIZKCtK1N331SU'
 global.nnntgrupo = nnnt //Grupo 3
 
-global.nnntt = 'https://chat.whatsapp.com/JhjEAp89pZ7FZmPuRK5R4y'
+global.nnntt = 'https://chat.whatsapp.com/HBewCrgjULJ39Hu11Tcl4f'
 global.nnnttgrupo = nnntt //Grupo 4
 
-global.nnnttt = 'https://chat.whatsapp.com/LtcSk6DQysJ3mANKLDiur2'
+global.nnnttt = 'https://chat.whatsapp.com/HWUNSnephXl2gsMsULSet2'
 global.nnntttgrupo = nnnttt //Grupo 5
 
-global.paypal = 'https://paypal.me/OficialGD'
+global.paypal = 'https://paypal.me/joesnaiper1@gmail.com'
 global.donar = paypal
 
 //global.gbrandom = [nna, nn, nnn, nnnt]  gbrandom.getRandom()
